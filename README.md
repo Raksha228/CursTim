@@ -9,10 +9,40 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ## Содержание
-- [Введение](#Введение)
-- [Установка](#Установка)
-- [Используемые библиотеки](#Используемые-библиотеки)
-- [База данных](#База-данных)
+- [Введение](#введение)
+- [Установка](#установка)
+- [Используемые библиотеки](#используемые-библиотеки)
+- [База данных](#база-данных)
+- [XML Документация](#xml-документация)
+- [Диаграммы сущностей](#диаграммы-сущностей)
+- [Инструкция](#инструкция)
+
+## Введение
+Программный Модуль преднозначен для автоматизации и оптимизации логистических операций а также построения маршрутов и отслеживание по карте 
 
 ## Установка
-для установки в **Bash** или **Power Shell** введите команду:
+для установки в **`Bash`** или **`Power Shell`** введите команду: 
+```
+git clone https://github.com/Raksha228/CursTim.git
+```
+
+## Используемые библиотеки
+* [Microsoft.EntityFrameworkCore](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/)
+* [Microsoft.EntityFrameworkCore.SqlServer](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.SqlServer/)
+* [Microsoft.EntityFrameworkCore.Sqlite](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Sqlite/)
+* [Microsoft.EntityFrameworkCore.Tools](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Tools)
+
+## База данных
+В проекте есть возможность использовать такие варианты как **БД** или **MS Sql Server** и **Sqlite**
+
+## XML Документация
+Ссылка на документацию
+> link
+
+## Диаграммы сущностей
+![Диаграмма класов]()
+
+## Инструкция
+Краткое руководство использования:
+> [!IMPORTANT]
+> Следуйте инструкциям для корректной работы приложения
